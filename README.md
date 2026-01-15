@@ -3,6 +3,8 @@
 
 A simple QR code generator application built with PyQt5.
 
+Repository: https://github.com/limszt/qr-2
+
 ## Features
 
 - Enter a URL to generate a QR code
